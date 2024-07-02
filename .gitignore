@@ -130,3 +130,5 @@ dist
 .pnp.*
 
 tutorial/node_modules
+
+.DS_Store

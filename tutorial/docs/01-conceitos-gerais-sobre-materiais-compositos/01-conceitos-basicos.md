@@ -1,7 +1,10 @@
 # Conceitos Básicos
 
 ### Material Compósito
-- Material sintetizado pela união de dois ou mais materiais distintos e com propriedades complementares que possui características superiores aos seus materias constituintes.
+- **O que são materiais compósitos?**
+    - Material sintetizado pela união de dois ou mais materiais distintos e com propriedades complementares que possui características superiores aos seus materias constituintes.
+
+- **Quais os princípios dos materiais compósitos?**
 - Princípios para formação de compósitos:
     - Busca-se obter um produto com melhor qualidade no que se refere à:
         - Resistência
@@ -14,6 +17,8 @@
         - Escolha racional feita por conhecimento das características e propriedades dos materiais constituintes
     - Deve escolher proporções convenientes para cada material que constitui o compósito.
     - Deve-se escolher o processo construtivo, pois o processo escolhido define as caracteristicas do compósito.
+    
+- **Quais as propriedades dos materiais compósitos?**
 - Propriedades
     - É um material multifásico
     - A proporção das fases inplica a determinacão da qualidade de todo o material.
@@ -67,15 +72,11 @@
         - Carbonização de fibras sintéticas
         - Produzem materiais resistentes e de baixo peso
 
-## Análise Térmica
-- Importância e Aplicações
-- Ensaio Térmico
-- Uso para caracterização de compósitos
-- A análise não pode ser apenas descritiva. Deve-se conseguir correlacionar informações relevantes tanto para a caracterização do compósito quanto para a idendificação de fatores da aplicação do material.
-    - Ou seja, deve-se avaliar se o compósito realmente atende o objetivo de melhoria de um material anterior que era usado no ambiente de trabalho.
-    - Quais características devem se medidas?
-    - E estas caractersiticas realmente implicam que o compósito se mostra mais eficiente para um objetivo de trabalho definido anteriormete à formulação do compósito? 
-- Deve-se usar conceitos nos resultados da análise de forma que a exploração dos resultados seja possível.
+## Análises
+- Análise Térmica
+- Análise Mecânica
+- Análise Reométrica
+- Análise Termomecânica
 
 
 ## Análise Remométrica
@@ -88,15 +89,7 @@
     - E estas caractersiticas realmente implicam que o compósito se mostra mais eficiente para um objetivo de trabalho definido anteriormete à formulação do compósito? 
 - Deve-se usar conceitos nos resultados da análise de forma que a exploração dos resultados seja possível.
 
-## Análise Mecânica
-- Importância e Aplicações 
-- Ensaio Mecânico
-- Uso para caracterização de compósitos
-- A análise não pode ser apenas descritiva. Deve-se conseguir correlacionar informações relevantes tanto para a caracterização do compósito quanto para a idendificação de fatores da aplicação do material.
-    - Ou seja, deve-se avaliar se o compósito realmente atende o objetivo de melhoria de um material anterior que era usado no ambiente de trabalho.
-    - Quais características devem se medidas?
-    - E estas caractersiticas realmente implicam que o compósito se mostra mais eficiente para um objetivo de trabalho definido anteriormete à formulação do compósito? 
-- Deve-se usar conceitos nos resultados da análise de forma que a exploração dos resultados seja possível.
+
 
 ## Análise Termomecânica
 - Importância e Aplicações 
@@ -108,6 +101,9 @@
 - Deve-se usar conceitos nos resultados da análise de forma que a exploração dos resultados seja possível.
 
 ## Estratégias Analíticas para Caracterização de Compósitos
-    - Exemplo de relatório
+**Quais estratégicas análiticas devem ser usadas para caracterizar compósitos? Por quê?**
+- Exemplo de relatório
+- Formas de caracterização
 
+## Exemplos de avaliação de compósitos
 - 

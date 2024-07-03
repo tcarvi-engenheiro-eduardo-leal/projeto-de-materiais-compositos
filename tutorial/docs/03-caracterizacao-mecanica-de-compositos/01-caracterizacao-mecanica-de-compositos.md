@@ -1,5 +1,7 @@
 # Caracterização Mecânica de Materiais Compósitos
 
+- O princípio inicial é SABER QUAL CONHECIMENTO SE PRETENDE GERAR COM AS ANÁLISES! 
+
 - **Como as análises mecânicas são utilizadas para caracterizar materiais compósitos?**
 
 ## Compósitos Avançados de Matriz Polimérica

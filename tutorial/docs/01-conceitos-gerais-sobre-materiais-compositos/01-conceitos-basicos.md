@@ -2,8 +2,35 @@
 
 ### Material Compósito
 - **O que são materiais compósitos?**
-    - Material sintetizado pela união de dois ou mais materiais distintos e com propriedades complementares que possui características superiores aos seus materias constituintes.
+    - Material multifásico formado pela união de dois ou mais materiais distintos e com propriedades complementares, com o intuito de obter um produto resultante com maior qualidade e/ou resistência.
 
+### Escolha de materiais constituintes para o material compósito
+- Esta escolha deve seguir o **"princípio da ação combinada"** que define as melhores combinações de materias por meio da escolha racional feita por conhecimento das características e propriedades dos materiais constituintes.
+
+### Fases
+- Materiais compósitos são formados pela fase matriz e pela fase dispersa (reforço).
+- Fase Matriz: fase contínua que recebe a fase dispersa
+- Fase Dispersa: fase que dá liga ao material.
+    - Está relacionada com as propriedades mecânicas do material, em função de seu tamanho, forma e distribuição na matriz.
+    - Geralmente esta fase de reforço é mais rígida e resistente do que a fase matriz.
+    - O Reforço é a fase descontínua enquanto a matriz se mostra, no todo, de forma contínua.
+
+### Interface entre Fase Matriz e Fase Dispersa
+- Esta interface afeta as propriedades mecânicas do compósito.
+- Este inferface é resultado da compatibilidade química entre as duas fases (matriz e reforço).
+- Uma boa interface entre Matriz e Reforço é essencial para a resistência e rigidez do compósito.
+
+### Função da Fase Matriz
+- Manter a fase reforço agregada dentro da matriz.
+- Distribuir as cargas externas recebidas.
+- Proteger a fase de reforco de danos mecânicos ou químicos. 
+- É o componente dominante no fornecimento de:
+    - resistência ao impacto
+    - tenacidade
+    - temperatura de serviço
+    - comportamento viscoelástico
+    - propriedades transversais
+    
 - **Quais os princípios dos materiais compósitos?**
 - Princípios para formação de compósitos:
     - Busca-se obter um produto com melhor qualidade no que se refere à:
@@ -17,7 +44,7 @@
         - Escolha racional feita por conhecimento das características e propriedades dos materiais constituintes
     - Deve escolher proporções convenientes para cada material que constitui o compósito.
     - Deve-se escolher o processo construtivo, pois o processo escolhido define as caracteristicas do compósito.
-    
+
 - **Quais as propriedades dos materiais compósitos?**
 - Propriedades
     - É um material multifásico

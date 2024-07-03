@@ -178,6 +178,37 @@
     - Análise Reométrica
     - Análise Termomecânica
 
+## Tipologia do Ensaio Destrutivo
+- Ensaios de Tração
+- Ensaios de Torção
+- Ensaios de Compressão
+- Ensaios de Dureza
+- Ensaios de Dobramento (ou flexão)
+- Ensaios de Impacto
+
+## Tipologia do Ensaio Não Destrutivo:
+- Ensaio visual
+- Ensaio de líquido penetrante
+- Ensaio de radiografia
+- Ensaio de ultrassom
+- Ensaio de partículas magnéticas
+- Ensaio por correntes de Foucault
+
+## Tipologia do Ensaio Mecânico Dinâmico:
+- Aplicação rápida ou cíclica de uma carga, para impacto ou fadiga do material
+
+## Tipologia do Ensaio Mecânico Estático:
+- Busca-se ter um estado de equilíbrio entre a carga e o material, por meio de uma aplicação lenta da carga.
+    - Ensaios de Tração
+    - Ensaios de Torção
+    - Ensaios de Compressão
+    - Ensaios de Dureza
+    - Ensaios de Dobramento (ou flexão)
+    - Ensaios de Impacto
+
+## Tipologia do Ensaio de Carga Constante
+- Aplica-se uma carga por um longo período para se avaliar a fluência do material.
+
 ## Estratégias Analíticas para Caracterização de Compósitos
 **Quais estratégicas análiticas devem ser usadas para caracterizar compósitos? Por quê?**
 - O princípio inicial é SABER QUAL CONHECIMENTO SE PRETENDE GERAR COM AS ANÁLISES! 

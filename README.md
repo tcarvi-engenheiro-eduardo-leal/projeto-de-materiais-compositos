@@ -1,26 +1,2 @@
-# materiais-compositos
+# projeto-de-materiais-compositos
 Tutoriais sobre materiais compósitos.
-
-- Gerador de documentação:
-```bash
-npx create-docusaurus@latest tutorial classic --typescript
-```  
-```bash
-rm ./tutorial/.gitignore
-```  
-
-- Configuração para ***[root]/.gitignore***:
-`tutorial/node_modules`
-
-- Configuração ***git***:
-```bash
-git config --local user.name YOUR-USER-NAME
-```  
-```bash
-git config --local user.email YOUR-USER-EMAIL
-```  
-
-- Comando para ***Push Contínuo***:
-```bash
-bash ./push-continuo.sh
-```  

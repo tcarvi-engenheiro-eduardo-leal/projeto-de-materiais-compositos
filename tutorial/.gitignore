@@ -18,3 +18,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# TCARVI
+projeto/.firebaserc
+projeto/firebase.json
+tutorial/node_modules
+tutorial/build
+nao_enviar/
